@@ -17,3 +17,6 @@ Object oriented design:
 - Mine Sweeper
 - Parking Lot
 - 
+
+# Rest: 
+http://dummy.restapiexample.com/
