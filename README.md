@@ -13,10 +13,15 @@ https://interviewing.io/recordings/Javascript-Pivotal-Labs-1/
 
 13 systems design videos on history
 
-Object oriented design: 
+12- 
+13- 3/16/2019: Design 
+
+# Object oriented design: 
 - Mine Sweeper
 - Parking Lot
 - 
 
 # Rest: 
 http://dummy.restapiexample.com/
+
+# CAP Thereom: 
