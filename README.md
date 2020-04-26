@@ -13,8 +13,8 @@ https://interviewing.io/recordings/Javascript-Pivotal-Labs-1/
 
 13 systems design videos on history
 
-12- 
-13- 3/16/2019: Design 
+12-   
+13- 3/16/2019: Design  
 
 # Object oriented design: 
 - Mine Sweeper
