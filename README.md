@@ -13,7 +13,7 @@ https://interviewing.io/recordings/Javascript-Pivotal-Labs-1/
 
 13 systems design videos on history
 
-12-   
+12- 7/8/2019 (failed): Pizza Ordering App   
 13- 3/16/2019: Distributed Caching System
 
 # Object oriented design: 
