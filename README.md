@@ -20,16 +20,14 @@ https://interviewing.io/recordings/Javascript-Pivotal-Labs-1/
 
 somewhat:  
 - 3/26/2020 (X): very low volume, design photo storage system.   
+10- 10/16/2019: Interviewed by Engineering manager at large company. 18 years experience, 4 years in management. Wunderground, weather unground (Interviewer is not good).   
 
 OO design:  
 - 11/19/2019: The Benevolent Donut, design API for game of checker
 
-
-
 Useless: 
 11- 8/18/2019: Design what's app. Interviewer: Teflon Enigma (not good).  
 12- 7/8/2019 (failed, not much useful): Pizza Ordering App   Interviewee: Teflon Enigma (not good)   
-10- 10/16/2019: Interviewed by Engineering manager at large company. 18 years experience, 4 years in management. Wunderground, weather unground (Interviewer is not good).   
 
 
 # Object oriented design: 
