@@ -14,10 +14,10 @@ https://interviewing.io/recordings/Javascript-Pivotal-Labs-1/
 13 systems design videos on history
 
 
-10- 10/16/2019: Interviewed by Engineering manager at large company. 18 years experience, 4 years in management. 
-11- 8/18/2019: Design what's app. Interviewer: Teflon Enigma (not good)
-12- 7/8/2019 (failed, not much useful): Pizza Ordering App   Interviewee: Teflon Enigma (not good)
-13- 3/16/2019: Distributed Caching System
+10- 10/16/2019: Interviewed by Engineering manager at large company. 18 years experience, 4 years in management. Wunderground, weather unground   
+11- 8/18/2019: Design what's app. Interviewer: Teflon Enigma (not good).  
+12- 7/8/2019 (failed, not much useful): Pizza Ordering App   Interviewee: Teflon Enigma (not good)   
+13- 3/16/2019: Distributed Caching System.  
 
 # Object oriented design: 
 - Mine Sweeper
