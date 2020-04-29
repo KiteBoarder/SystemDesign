@@ -14,6 +14,7 @@ https://interviewing.io/recordings/Javascript-Pivotal-Labs-1/
 13 systems design videos on history
 
 - 3/26/2020 (X): very low volume, design photo storage system. 
+- (rewatch)11/12/2019: The Benevolent Donut, pizza delivery with the highschooler
 - 11/19/2019: The Benevolent Donut, design API for game of checker
 
 
