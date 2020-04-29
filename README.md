@@ -11,17 +11,26 @@ https://interviewing.io/recordings/Systems-Design-Google-15/
 LRU cache: 
 https://interviewing.io/recordings/Javascript-Pivotal-Labs-1/
 
-13 systems design videos on history
+13 systems design videos on history.  
 
-- 3/26/2020 (X): very low volume, design photo storage system. 
 - (rewatch)11/12/2019: The Benevolent Donut, pizza delivery with the highschooler
+
+
+13- 3/16/2019: Distributed Caching System.  
+
+somewhat:  
+- 3/26/2020 (X): very low volume, design photo storage system.   
+
+OO design:  
 - 11/19/2019: The Benevolent Donut, design API for game of checker
 
 
-10- 10/16/2019: Interviewed by Engineering manager at large company. 18 years experience, 4 years in management. Wunderground, weather unground (Interviewer is not good).   
+
+Useless: 
 11- 8/18/2019: Design what's app. Interviewer: Teflon Enigma (not good).  
 12- 7/8/2019 (failed, not much useful): Pizza Ordering App   Interviewee: Teflon Enigma (not good)   
-13- 3/16/2019: Distributed Caching System.  
+10- 10/16/2019: Interviewed by Engineering manager at large company. 18 years experience, 4 years in management. Wunderground, weather unground (Interviewer is not good).   
+
 
 # Object oriented design: 
 - Mine Sweeper
