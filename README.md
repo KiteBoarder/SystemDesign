@@ -104,6 +104,13 @@ Different caches: redis, memcached
 S3  
 For example allow users to store images.  
 
+### type of databases: 
+
+nosql: Amazon DynamoDB, mongoDB, Firebase Firestore
+
+#### relational database scaling: 
+vertical: multiple tables, each table in one machine. Like Users table, tweets in different machines. 
+horizontal: tweet table itself is huge, needes more than one machine. Use more than one machine. Hash mod technique. hash of the user id mod number of servers used for the tweets table. 
 
 ### Topics to mention: 
 CAP Theorem  
