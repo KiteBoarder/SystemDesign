@@ -8,6 +8,9 @@ https://medium.com/system-designing-interviews/approach-a-system-design-intervie
 Distributed database: 
 https://interviewing.io/recordings/Systems-Design-Google-15/
 
+Tech lead video:  
+https://www.youtube.com/watch?v=REB_eGHK_P4
+
 LRU cache: 
 https://interviewing.io/recordings/Javascript-Pivotal-Labs-1/
 
