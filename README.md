@@ -100,6 +100,10 @@ to offload the traffic from the DB.
 
 Different caches: redis, memcached
 
+### distributed file system: 
+S3  
+For example allow users to store images.  
+
 
 ### Topics to mention: 
 CAP Theorem  
