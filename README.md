@@ -85,8 +85,25 @@ Difference between TLS and mTLS.
 40 requests per second = 100 million requests per month.  
 400 requests per second = 1 billion requests per month.  
 
+### Load balancer: 
+Nginx, HAProxy, DNS (domain name to multiple ip addresses, more limited for customization)
+
+types of load balancing: Round robin, machine with least load, hashing on the ip address
+
+### Push notification: 
+Client pull or server push.  
+
+Server push: Websocket (more common), SSE (Server Sent Events)
+
+### caching: 
+to offload the traffic from the DB.  
+
+Different caches: redis, memcached
+
 
 ### Topics to mention: 
-CAP Theorem
-Back of the envelop calculation
-Security
+CAP Theorem  
+Back of the envelop calculation.   
+Security.   
+CDN (for static content like javascript, images)
+
