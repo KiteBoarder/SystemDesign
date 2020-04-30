@@ -13,6 +13,16 @@ https://interviewing.io/recordings/Javascript-Pivotal-Labs-1/
 
 13 systems design videos on history.  
 
+Remaining:   
+- 4/1/20: Social Media sharing: er: Tea-Smoked Slide Rule.  
+- 3/23/20: Webcrawler. ee: Tea-Smoked Slide Rule. er: Invincible Cloud.  
+- 3/29/20: leetcode.  
+- 12/30/2019(failed)messenger application er: Eponymous Lambda ee: Wandering Porpoise.  
+- 12/22/2019 (Failed): Stocks er: Eponymous Lambda.  
+- 12/22/2019(Failed): Amazon e-commerce Application er: Ubiquitous Goblin  
+
+
+
 - (rewatch)11/12/2019: The Benevolent Donut, pizza delivery with the highschooler
 
 
@@ -48,3 +58,9 @@ http://dummy.restapiexample.com/
 1 request per second = 2.5 million requests per month.  
 40 requests per second = 100 million requests per month.  
 400 requests per second = 1 billion requests per month.  
+
+
+### Topics to mention: 
+CAP Theorem
+Back of the envelop calculation
+Security
