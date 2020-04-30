@@ -1,3 +1,7 @@
+# Remaining
+What is mTLS?   
+Difference between TLS and mTLS
+
 # Articles: 
 
 https://medium.com/system-designing-interviews/approach-a-system-design-interview-f3594e243730
@@ -10,6 +14,9 @@ https://interviewing.io/recordings/Systems-Design-Google-15/
 
 Tech lead video:  
 https://www.youtube.com/watch?v=REB_eGHK_P4
+
+Tushar video:  
+https://www.youtube.com/watch?v=UzLMhqg3_Wc
 
 LRU cache: 
 https://interviewing.io/recordings/Javascript-Pivotal-Labs-1/
@@ -51,7 +58,13 @@ Useless:
 # Rest: 
 http://dummy.restapiexample.com/
 
-# CAP Thereom: 
+# CAP Thereom:  
+Consistency, Availability, Partition tolerance.  
+
+Consistency: Every read is guaranteed to return the most recent write or an error.  
+Availability: Every request receives a non-error response from a non-failing node in a reasonable time. It is expected that the client may not receive the most recent write.  
+Partition tolerance: The system continues to operate when network partition happens.  
+
 
 
 # Cheat sheet: 
