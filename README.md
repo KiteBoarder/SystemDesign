@@ -1,6 +1,4 @@
 # Remaining
-What is mTLS?   
-Difference between TLS and mTLS
 
 # Articles: 
 
@@ -65,7 +63,19 @@ Consistency: Every read is guaranteed to return the most recent write or an erro
 Availability: Every request receives a non-error response from a non-failing node in a reasonable time. It is expected that the client may not receive the most recent write.  
 Partition tolerance: The system continues to operate when network partition happens.  
 
+Given that networks aren't completely reliable, you must tolerate partitions in a distributed system.   
+you get to choose what to do when a partition does occur. According to the CAP theorem, this means we are left with two options: Consistency and Availability.   
 
+CP - Consistency/Partition Tolerance - Wait for a response from the partitioned node which could result in a timeout error. The system can also choose to return an error, depending on the scenario you desire. Choose Consistency over Availability when your business requirements dictate atomic reads and writes.
+
+AP - Availability/Partition Tolerance - Return the most recent version of the data you have, which could be stale. This system state will also accept writes that can be processed later when the partition is resolved. Choose Availability over Consistency when your business requirements allow for some flexibility around when the data in the system synchronizes. Availability is also a compelling option when the system needs to continue to function in spite of external errors (shopping carts, etc.)
+
+More info: https://robertgreiner.com/cap-theorem-revisited/
+
+# mTLS:
+What is mTLS?   
+Mutual TLS (Transport Layer Security).  
+Difference between TLS and mTLS.  
 
 # Cheat sheet: 
 ### Handy conversion guide:
